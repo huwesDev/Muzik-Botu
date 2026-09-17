@@ -75,8 +75,8 @@ music/
 > **FFmpeg ve yt-dlp kurmanı gerekmez.**  
 > `ffmpeg-static` ve `@distube/yt-dlp` paketleri `npm install` ile otomatik gelir.  
 > Sadece Node.js yeterli.
-> > ```powershell
-> npm install
+> ```powershell
+> npm instal
 > ```
 
 > **Not:** Bazı durumlarda sistem `yt-dlp`'si daha güncel olduğu için ses sorunu yaşanabilir.  
